@@ -3,3 +3,7 @@ gymnasium>=0.29.1
 numpy >=1.21.0
 scikit-learn>=1.4.0
 pytest
+coolname
+numba
+stable-baselines3==2.2.1
+gymnasium==0.29.1
